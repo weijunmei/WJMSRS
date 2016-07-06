@@ -14,3 +14,5 @@
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-13.jpg)
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-14.jpg)
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-15.jpg)
+数据库结构图：
+![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-16.png)
