@@ -1,5 +1,6 @@
 # WJMSRS
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-17.png)
+![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-18.png)
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-1.png)
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-2.png)
 ![alt text](https://github.com/weijunmei/WJMSRS/blob/master/界面截图/1-3.png)
