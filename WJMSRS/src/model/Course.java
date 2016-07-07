@@ -20,6 +20,10 @@ public class Course {
 		prerequisites = new ArrayList<Course>();
 	}
 
+	public Course() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void addPrerequisite(Course c) {
 		prerequisites.add(c);
 	}

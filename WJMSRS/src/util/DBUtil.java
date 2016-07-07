@@ -31,4 +31,8 @@ public class DBUtil {
 			}
 		}
 	}
+	public static Connection getConnection() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

@@ -18,6 +18,10 @@ public class Professor extends Person {
 		teaches = new ArrayList<Section>();
 	}
 
+	public Professor() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public List<Section> displayTeachingAssignments() {
 		if (teaches.size() == 0) {
 			return null;

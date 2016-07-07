@@ -3,7 +3,7 @@ package service;
 import java.util.List;
 
 import dao.SectionDao;
-import daoImp.SectionDaoImp;
+import daoImpl.SectionDaoImp;
 import model.ScheduleOfClasses;
 import model.Section;
 import model.Student;

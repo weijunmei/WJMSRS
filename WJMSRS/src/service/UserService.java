@@ -1,7 +1,7 @@
 package service;
 
 import dao.UserDao;
-import daoImp.UserDaoImp;
+import daoImpl.UserDaoImp;
 import model.Person;
 import model.User;
 

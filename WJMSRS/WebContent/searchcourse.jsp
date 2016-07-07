@@ -47,7 +47,7 @@
         <div class="admin-bread">
             <span>您好，admin，欢迎您的光临。</span>
             <ul class="bread">
-                <li><a href="index.html" class="icon-home"> 开始</a></li>
+                <li class="active"><a href="index.html" class="icon-home"> 开始</a></li>
                 <li><a href="system.html">设置</a></li>
                 <li>系统设置</li>
             </ul>

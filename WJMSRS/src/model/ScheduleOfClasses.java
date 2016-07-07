@@ -13,6 +13,10 @@ public class ScheduleOfClasses {
 		sectionsOffered = new HashMap<String, Section>();
 	}
 
+	public ScheduleOfClasses() {
+		// TODO Auto-generated constructor stub
+	}
+
 	public void addSection(Section s) {
 		String key = s.getRepresentedCourse().getCourseNo() + " - " + s.getSectionNo();
 		sectionsOffered.put(key, s);

@@ -8,7 +8,7 @@ public class Student extends Person {
 	private String degree;
 	private Transcript transcript;
 	private ArrayList<Section> attends;
-	private PlanOfStudy plan;
+	private ScheduleOfStudy plan;
 
 	public Student(String name, String ssn, String major, String degree) {
 		super(name, ssn);
@@ -123,11 +123,11 @@ public class Student extends Person {
 		return transcript;
 	}
 
-	public PlanOfStudy getPlan() {
+	public ScheduleOfStudy getPlan() {
 		return plan;
 	}
 
-	public void setPlan(PlanOfStudy plan) {
+	public void setPlan(ScheduleOfStudy plan) {
 		this.plan = plan;
 	}
 

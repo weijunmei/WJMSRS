@@ -17,9 +17,9 @@
     <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon" />
     <link href="/favicon.ico" rel="bookmark icon" />
     <script type="text/javascript">
-
     </script>
 </head>
+
 <body>
 <div class="lefter">
 </div>
@@ -68,7 +68,7 @@
       <div class="tab-body">
         <br />
         <div class="tab-panel active" id="tab-set">
-                   <form method="post" class="form-x" action="system.html">
+                   <form action="addCourse" method="post" class="form-x">
 				<div class="form-group">
                 	<div class="field">
                         <div class="button-group button-group-small radio">
@@ -142,5 +142,6 @@
       </div>
     </div>
 </div>
+
 </body>
 </html>
